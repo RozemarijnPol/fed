@@ -39,12 +39,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://schipholmeetandassist.com/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/home-small-screen.png" width="375px" alt="omschrijving van de pagina">
+  Homepagina 
+  <img src="readme-images/home-small-screen.png" width="375px" alt="Home pagina bestaande uit hero, introtekst, samenvatting van de services en footer.">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/our-services-small-screen.png" width="375px" alt="omschrijving van de pagina">
+  Our services
+  <img src="readme-images/our-services-small-screen.png" width="375px" alt="Dienstenpagina bestaande uit introtekst, services en footer.">
  
 </details>
 
@@ -59,21 +59,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Ik heb het als erg lastig ervaren om middels de screenreader door de website te navigeren. Ten eerste vond ik de stem slecht verstaanbaar, door het hoge spraaktempo. Daarnaast vond ik het erg lastig om te begrijpen waar op de website ik precies was en hoe ik ergens anders kwam. Echter is dit voor iemand die blind is en dus niet zo visueel ingesteld als ik, wellicht makkelijker. 
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Mogelijk kan het tempo van de screenreader aangepast worden.
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Het was moeilijk om door de Schiphol website te navigeren met alleen het toetsenbord. Het is wel mogelijk, alleen zie je niet duidelijk waar je precies bent. In tegenstelling tot de site van Apple, waar er een soort blauwe border komt om het gedeelte waar je bent. 
+<img src="readme-images/screenshot-toegankelijkheid-test-2-apple" width="375px" alt="Screenshot van apple site.">
+
+<img src="readme-images/screenshot-toegankelijkheid-test-2-schiphol" width="375px" alt="Screenshot van schiphol site.">
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Test niet uitgevoerd.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 

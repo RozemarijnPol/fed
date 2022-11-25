@@ -39,7 +39,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 */
 
-/* titels en tekst*/
+/* kopjes en tekst*/
 
 h1 {
 	font-family: "Lato";
@@ -53,18 +53,20 @@ h2 {
 	font-family: "Lato";
 	font-weight: 900;
 	font-size: 2em;
-	color: rgb(101,82,168);
-
+	-webkit-background-clip: text;
+    background-clip: text;
+	background-image: linear-gradient(90deg, #6552a8 0%, #1b60db 100%);
+    -webkit-text-fill-color: transparent;
 }
 
-h3 {
+h4 {
 	font-family: "Lato";
 	font-weight: 900;
 	font-size: 1em;
 	color: #141251;
 }
 
-h4 {
+h3 {
 	font-family: "Lato";
 	font-weight: 900;
 	font-size: 1.4em;
@@ -79,9 +81,15 @@ p {
 	line-height: 1.6em;
 }
 
-header img {
-	width: 100px;
+/* links */
+
+a {
+	font-family: "Lato";
+	font-weight: 200;
+	font-size: 1em;
+	color: #1b60db;
 }
+
 
 /* Navigatie */
 
@@ -99,6 +107,11 @@ nav li {
 	list-style: none;
 }
 
+/* header */
+
+header img {
+	width: 100px;
+}
 
 /* Hero */
 
@@ -112,7 +125,7 @@ nav li {
 
 }
 
-.hero h3 {
+.hero h4 {
 	background-color: white;
 	padding-top: 8px;
 	padding-bottom: 8px;
@@ -138,7 +151,8 @@ nav li {
 /* Services Cards */
 
 .card {
-	background-color: #6552a8;
+	background-color: white;
+	box-shadow: 0 0.625em 1.25em 0 rgb(34 34 34 / 10%);
 }
 
 /* Footer */

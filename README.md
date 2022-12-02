@@ -275,7 +275,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
   1. bron 1
-  2. bron 2
-  3. ...
+  2. https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card
+  3. https://www.positioniseverything.net/html-article-vs-section
 
 </details>

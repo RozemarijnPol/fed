@@ -579,8 +579,7 @@ nav li:hover {
 footer {
 	background-image:linear-gradient(90deg, #6552a8 0%, #1b60db 100%);
 	padding-top:64px;
-	display:grid;
-	grid-template-columns: repeat(1, 1fr);	
+
 }
 
 footer a {
@@ -646,7 +645,7 @@ display:flex;
 		padding-right:64px;
 	}
 
-	.footer-nav ul {
+	.footer-nav{
 		display:flex;
 		max-width:1280px;
 		margin:auto;
@@ -704,6 +703,3 @@ display:flex;
 @media only screen and (min-width: 1280px) {
 }
 
-/* wide */
-@media (min-width: 1920px) {
-}

@@ -602,6 +602,14 @@ footer li {
 	padding-bottom:16px;
 }
 
+.footer-nav ul li:first-of-type {
+	font-weight: 900;
+	font-family: "Lato";
+	font-size: 1em;
+	color:#ffffff;
+	
+}
+
 footer ul img {
 	height:48px;
 	width:auto;
@@ -645,7 +653,7 @@ display:flex;
 		padding-right:64px;
 	}
 
-	.footer-nav{
+	.footer-nav {
 		display:flex;
 		max-width:1280px;
 		margin:auto;
